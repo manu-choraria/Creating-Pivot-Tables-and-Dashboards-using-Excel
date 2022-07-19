@@ -13,7 +13,8 @@ As a data analysis intern, you are provided with a general store transaction dat
 4.In the third Pivot table, filter out (remove) low-fat products 
 5.Add slicers for item fat and item type in the last Pivot table
 
-*Note*:The Dataset is embedded within the Excel file
+Dataset: [General_store_dataset.xlsx](https://docs.google.com/spreadsheets/d/1tCGKSbCRXgh8ElkvC_7iNJeMw53atXiP/edit#gid=1010192537)
+
 
 # Part 2
 
@@ -25,4 +26,4 @@ As a data analysis intern, you are provided with the Profit and Loss statement o
 4.Main expenditure item Target vs achieved
 5.Create chats of other metrics you feel are important.
 
-*Note*:The Dataset is embedded within the Excel file
+Dataset: [Financial Dashboard](https://docs.google.com/spreadsheets/d/1PHoXC4VvkghGKLZtvCknkYfUt85232Lj/edit?usp=sharing&ouid=106115340208586563833&rtpof=true&sd=true)
